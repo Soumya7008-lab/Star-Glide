@@ -1,13 +1,13 @@
 # ✦ STARGLIDE – Gesture-Controlled Space Survival
 
 <p align="center">
-  <img src="screenshot.png" alt="STARGLIDE" width="700">
+  <img src="Screenshot.png" alt="STARGLIDE" width="700">
 </p>
 
 STARGLIDE is a high-performance, browser-based space shooter that merges traditional arcade mechanics with real-time computer vision. Instead of relying on a keyboard or mouse, players pilot their spacecraft and engage cosmic threats entirely through hand gestures captured via webcam.
 
 ## 🚀 Live Demo
-👉 **[[https://star-glide.netlify.app/]]**
+👉 **[https://star-glide.netlify.app/]**
 
 ---
 
